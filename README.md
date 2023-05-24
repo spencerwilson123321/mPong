@@ -19,9 +19,11 @@ Run:
 Controls:
 
 W -> Move left player up
+
 S -> Move left player down
 
 UP -> Move right player up
+
 DOWN -> Move right player down
 
 ESC -> Quit Game
